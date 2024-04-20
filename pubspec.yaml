@@ -33,7 +33,7 @@ flutter:
     - assets/images/profile.jpg
     - assets/icons/mongo.png
     - assets/icons/js.png
-    - assets/images/image.gif
+    - assets/images/icon.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
