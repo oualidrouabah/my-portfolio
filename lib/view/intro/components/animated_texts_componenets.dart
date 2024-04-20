@@ -11,8 +11,7 @@ class AnimatedImageContainer extends StatefulWidget {
   @override
   AnimatedImageContainerState createState() => AnimatedImageContainerState();
 }
-class AnimatedImageContainerState extends State<AnimatedImageContainer>
-    with SingleTickerProviderStateMixin {
+class AnimatedImageContainerState extends State<AnimatedImageContainer> with SingleTickerProviderStateMixin {
   late AnimationController _controller;
   @override
   void initState() {
