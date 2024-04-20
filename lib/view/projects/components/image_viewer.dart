@@ -5,7 +5,7 @@ class ImageViewer {
   ImageViewer(BuildContext context, String image) {
     showGeneralDialog(
       barrierColor: Colors.black,
-      transitionDuration: Duration(milliseconds: 500),
+      transitionDuration:const Duration(milliseconds: 500),
       barrierDismissible: true,
       barrierLabel: 'Barrier',
       context: context,
