@@ -17,6 +17,6 @@ List<Project> projectList = [
     'Chicken AI',
     'application that allow you to detect poultry diseases from fecal samples',
     'assets/images/',
-    '',
+    'https://github.com/oualidrouabah/poultry-disease-detection-app',
   ),
 ];
