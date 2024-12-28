@@ -44,7 +44,7 @@ class AnimatedImageContainerState extends State<AnimatedImageContainer> with Sin
                     : 450,
           alignment: Alignment.center,
           decoration: BoxDecoration(
-            color: Colors.black,
+            //color: Colors.black,
             borderRadius: BorderRadius.circular(30),
           ),
           child: Image.asset(
